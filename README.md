@@ -24,6 +24,7 @@ Developed a Python tool to analyze Wireshark (.pcap) files.
 - Implemented packet parsing, IP classification, and GeoIP mapping  
 - Generated KML visualizations for Google Earth  
 - Modular design for extension into IDS and network forensics  
+
 **Tech:** Python, Wireshark, dpkt, pygeoip, GeoLiteCity, KML, Google Earth  
 
 ☁️ **FlashSale Ecommerce Cloud**  
@@ -31,7 +32,7 @@ Developed a cloud-based platform to handle flash sales efficiently.
 - Ensures zero downtime even during high-traffic events  
 - Implements scalable architecture to automatically manage sudden spikes in user traffic  
 - Designed a load management system to distribute requests evenly across servers  
+
 **Tech:** Cloud-based architecture, Load Balancing, High Availability
 
-**Tech:** Python, Wireshark, dpkt, pygeoip, GeoLiteCity, KML, Google Earth
 
