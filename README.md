@@ -16,3 +16,13 @@ Languages and scripts used to build security tools or automate tasks: Python, Ba
 
 **AI/ML for Cybersecurity**  
 Frameworks and libraries for threat detection and anomaly analysis: Python, Scikit-Learn, TensorFlow, PyTorch
+
+### 🚀 Featured Projects
+
+🌍 **Network Traffic Visualization & Forensics Tool**  
+Developed a Python tool to analyze Wireshark (.pcap) files.  
+- Implemented packet parsing, IP classification, and GeoIP mapping  
+- Generated KML visualizations for Google Earth  
+- Modular design for extension into IDS and network forensics  
+**Tech:** Python, Wireshark, dpkt, pygeoip, GeoLiteCity, KML, Google Earth
+
